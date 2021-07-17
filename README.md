@@ -1,6 +1,6 @@
 # AmbuLights
 
-Raspberry Pi based project to notify vehicles about emergency ambulances in the same route. It was developed during Hackathon organized by ITONICS Nepal. Whenever there is an emergency need of an ambulance the emergency lights in that particular route will be turned on.
+Raspberry Pi based project to notify vehicles about emergency ambulances in their route. It was developed during Hackathon organized by ITONICS Nepal. Whenever there is an emergency need of an ambulance the emergency lights in that particular route will be turned on.
 ## Images
 
 **Hardware Device**
@@ -14,7 +14,7 @@ Raspberry Pi based project to notify vehicles about emergency ambulances in the 
 <!-- **Screenshot from UserApp**
 
 <div align="center">
-   <img src="./images/AQI_screenshot.png" width="60%" height="60%" />
+   <img src="./images/screenshot.png" width="60%" height="60%" />
 </div> -->
 
 ## Components Used
